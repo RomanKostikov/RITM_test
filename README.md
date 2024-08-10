@@ -30,6 +30,10 @@
 2. Отправка запроса без поля "job"
 3. Отправка запроса с пустым телом
 
+Результат:
+
+![1.JPG](1.JPG)
+
 ## 2. Реализовать тестовую документацию в виде гугл-таблицы. (Чеклист/тест-кейсы)
 ссылка на гугл-таблицу: 
 https://docs.google.com/spreadsheets/d/1F5iauGWfThzh-36dSbkLLf-xnLRPCrJ-IwwbKOL4CMo/edit?usp=sharing
